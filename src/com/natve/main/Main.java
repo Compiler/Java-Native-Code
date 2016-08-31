@@ -12,8 +12,8 @@ public class Main {
 
 	public static void main(String [] args){
 		
-		Main dildo = new Main();
-		System.out.println(dildo.helloC("Java: Hello from Java"));
+		Main comun = new Main();
+		System.out.println(comun.helloC("Java: Hello from Java"));
 		
 	}
 }
